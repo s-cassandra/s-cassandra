@@ -1,4 +1,4 @@
-# Hi there, I'm Seema 👋
+# Hi there, I'm Cassandra 👋
 
 ## About me
 With a Bachelor of Science in Criminology and Forensic Psychology, I developed skills in data collection, analysis, and project management. I recently transitioned into tech, completing a Data Science course at HyperionDev with a 98% average, where I learned Python and SQL. I’m actively learning through SoloLearn and FreeCodeCamp, working toward certifications in HTML, CSS, JavaScript, and C++. Learning multiple languages simultaneously helps me compare approaches to problem-solving, deepening my understanding. As an aspiring software engineer/developer, I am building on these skills to expand my expertise and contribute to impactful projects.
